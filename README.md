@@ -9,4 +9,4 @@ But due to time constraints, the application was not fully developed (as the wor
 
 
 ## Video tutorial ▶️
-[![Alt text](https://www.youtube.com/watch?v=rRTqtijGCJk)
+(https://www.youtube.com/watch?v=rRTqtijGCJk)
