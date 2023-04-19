@@ -1,4 +1,4 @@
-# EasyLSM---WWDC-2023
+# EasyLSM---WWDC-2023 💌
 Swift Student Challenge Submission WWDC23! 📚
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/101153941/232966100-29c9251d-6fe0-4d80-93d2-c2c3769367c2.png%22%3E"
